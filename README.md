@@ -23,8 +23,8 @@ BugCo is a **debugging puzzle tool** where players take on coding challenges by 
 ## 🛠️ Technologies Used
 
 - Java (GUI + core logic)
-- JavaFX or Swing (depending on your GUI framework)
-- File-based or in-memory storage for leaderboard/challenges
+- JavaFX
+- Database (SQLite) for leaderboard/challenges
 
 ---
 
